@@ -1,24 +1,11 @@
-# binding-de-formularios
+## Binding-de-Formularios
 
-## Project setup
-```
-npm install
-```
+El código permite:
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+Enlazar el valor de los inputs con el estado de manera bidireccional usando el v-model.
 
-### Compiles and minifies for production
-```
-npm run build
-```
+Interpolar las variables del estado en las etiquetas correspondientes.
 
-### Lints and fixes files
-```
-npm run lint
-```
+Crear las variables del estado correspondientes a la información de la tarjeta.
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Enlazar las rutas de las imágenes usando el binding unidireccional en el atributo src.
