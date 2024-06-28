@@ -54,7 +54,6 @@ export default {
   name: 'BindingForm',
   data() {
     return {
-      /* Tuve que utilizar require para que no se rompiera la ruta */
       chip: "",
       tipo: "",
       titulo: "Visa Classic Crédito",
