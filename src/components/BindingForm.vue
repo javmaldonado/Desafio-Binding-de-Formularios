@@ -64,7 +64,7 @@ export default {
 
     };
   },
-  /* Me molestaba que los datos no tuvieran formato/limite por lo que busqué como incorporarlo */
+  /* formato/limite 
   computed: {
     formattedFecha() {
       return this.fecha.replace(/(\d{2})(\d{2})/, '$1 / $2');
@@ -92,7 +92,7 @@ export default {
       }
       this.numero = input;
     }
-  }
+  }*/
 };
 </script>
 
