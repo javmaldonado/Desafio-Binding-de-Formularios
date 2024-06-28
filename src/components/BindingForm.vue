@@ -64,8 +64,9 @@ export default {
 
     };
   },
-  /* formato/limite 
-  computed: {
+  /* Si quisiera limitar o formatear los input se utilizarian los siguientes metodos */
+  
+   /*computed: {
     formattedFecha() {
       return this.fecha.replace(/(\d{2})(\d{2})/, '$1 / $2');
     }
