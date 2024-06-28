@@ -37,7 +37,7 @@
       <img :src="chip" alt="Chip Image" width="40">
       <div>
         <h2>{{ numero }}</h2>
-        <span>Fecha exp: <b>{{ formattedFecha }}</b></span>
+        <span>Fecha exp: <b>{{ fecha }}</b></span>
       </div>
       <footer>
         <span>{{ propietario }}</span>
